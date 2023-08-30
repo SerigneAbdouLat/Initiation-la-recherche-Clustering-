@@ -10,3 +10,7 @@ Nous avons utilise les indices de mesure ARI et Silhouette scores pour évaluer 
 Nous avons egalement effectué plusieurs exécutions de K-means et notre approche hybride pour verifier la stabilité de notre solution.
 Les résultats de nos expériences montrent que notre approche hybride ameliore significativement la stabilité des clusters par rapport à K-means seul, ce qui en fait une technique prometteuse pour une varieté d’applications de clustering ou
 la stabilite des résultats est critique.
+
+
+NGAM Amadou
+SARR Serigne Abdou Lat
