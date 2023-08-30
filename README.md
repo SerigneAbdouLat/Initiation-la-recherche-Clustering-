@@ -12,5 +12,5 @@ Les résultats de nos expériences montrent que notre approche hybride ameliore 
 la stabilite des résultats est critique.
 
 
-NGAM Amadou
-SARR Serigne Abdou Lat
+# NGAM Amadou
+# SARR Serigne Abdou Lat
